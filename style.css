@@ -1,0 +1,56 @@
+.montserrat-1c-bitrix-prodlenie {
+    font-family: Montserrat;
+}
+.element-first-choose-liz-1c-bitrix-prodlenie, .element-second-choose-liz-1c-bitrix-prodlenie, .element-third-choose-liz-1c-bitrix-prodlenie, .element-fourth-choose-liz-1c-bitrix-prodlenie, .element-fifth-choose-liz-1c-bitrix-prodlenie, .element-sixth-choose-liz-1c-bitrix-prodlenie, .element-seventh-choose-liz-1c-bitrix-prodlenie, .element-eighth-choose-liz-1c-bitrix-prodlenie, .element-ninth-choose-liz-1c-bitrix-prodlenie {
+    display: flex;
+    box-shadow: 2px 0 5px 0 rgba(200, 200, 200, .3);
+    margin-top: 10px;
+    border-left: .25rem solid #eee;
+    padding: 30px 20px;
+}
+.subelement-choose-liz-1c-bitrix-prodlenie {
+    display: flex;
+    margin-left: auto;
+    margin-right: 50px;
+}
+.element-first-choose-liz-1c-bitrix-prodlenie, .element-seventh-choose-liz-1c-bitrix-prodlenie {
+    border-left-color: #bdd660;
+}
+.element-second-choose-liz-1c-bitrix-prodlenie, .element-eighth-choose-liz-1c-bitrix-prodlenie {
+    border-left-color: #9f7ee6;
+}
+.element-third-choose-liz-1c-bitrix-prodlenie, .element-ninth-choose-liz-1c-bitrix-prodlenie {
+    border-left-color: #1f90ef;
+}
+.element-fourth-choose-liz-1c-bitrix-prodlenie {
+    border-left-color: #5bc0de;
+}
+.element-fifth-choose-liz-1c-bitrix-prodlenie {
+    border-left-color: #f0ad4e;
+}
+.element-sixth-choose-liz-1c-bitrix-prodlenie {
+    border-left-color: #d9534f;
+}
+.a-1c-bitrix-prodlenie {
+    text-decoration: none;
+    color: #1f90ef;
+}
+.price-1c-bitrix-prodlenie {
+    margin-top: 15px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.text-choose-liz-1c-bitrix-prodlenie {
+    font-size: 18px;
+}
+@media (max-width: 700px) {
+    .element-first-choose-liz-1c-bitrix-prodlenie, .element-second-choose-liz-1c-bitrix-prodlenie, .element-third-choose-liz-1c-bitrix-prodlenie, .element-fourth-choose-liz-1c-bitrix-prodlenie, .element-fifth-choose-liz-1c-bitrix-prodlenie, .element-sixth-choose-liz-1c-bitrix-prodlenie, .element-seventh-choose-liz-1c-bitrix-prodlenie {
+        display: block;
+    }  
+}
+
+@media (max-width: 1000px) {
+    .subelement-choose-liz-1c-bitrix-prodlenie {
+        display: block;
+    }
+}
